@@ -1,0 +1,13 @@
+{
+  "name": "basit-kargo",
+  "version": "1.0.0",
+  "description": "Tüm kargo firmaları tek yerde: Aras, MNG, Yurtiçi, Sürat, PTT, HepsiJet ve daha fazlası için gönderi oluşturun, fiyat karşılaştırın, takip edin ve etiket basın.",
+  "author": {
+    "name": "Basit Kargo",
+    "email": "info@basitkargo.com",
+    "url": "https://basitkargo.com"
+  },
+  "homepage": "https://basitkargo.com/mcp",
+  "license": "MIT",
+  "keywords": ["kargo", "shipping", "e-commerce", "logistics", "turkey", "aras", "mng", "yurtici", "ptt", "hepsijet"]
+}

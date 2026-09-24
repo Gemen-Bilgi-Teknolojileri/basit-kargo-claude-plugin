@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "basit-kargo": {
+      "type": "http",
+      "url": "https://mcp.basitkargo.com/mcp"
+    }
+  }
+}
